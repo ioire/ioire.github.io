@@ -1,8 +1,8 @@
 body{
    font-family:'Arial';
    font-size: 1em;   
-   margin-left: 200px;
-   margin-right: 200px;
+   margin-left: 150px;
+   margin-right: 150px;
 }
 
 nav ul, footer ul {
@@ -60,9 +60,9 @@ ul.posts li {
 .col-250{width:250px;}
 
 #globalcontainer{
-    width: 50%;
+    /* width: 70%; */
     margin: 0 auto;
-    /* width: 800px; */
+    width: 800px;
     text-align: justify;
 }
 
