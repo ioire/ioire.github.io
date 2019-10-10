@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<title>{{ page.title }}</title>
+			<!-- link to main stylesheet -->
+			<link rel="stylesheet" type="text/css" href="/css/main.css">
+		</head>
+		<body>
+		  <div id="globalcontainer">
+			<nav>
+	    		<ul>
+	        		<li><a href="{{ base }}/about">About</a></li>
+        			<li><a href="{{ base }}/images/CV_Iodice.pdf"  download="IodiceCV">CV</a></li>
+				<li><a href="{{ base }}/research">Research</a></li>
+        			<li><a href="{{ base }}/teaching">Teaching</a></li>	        		
+	    		</ul>
+			</nav>
+			<div>
+			
+			{{ content }}
+			
+			</div><!-- /.container -->
+		
+			<footer>
+	    		<ul>
+				<li> <span style="float: left"> 2017 © ireneiodice.fr | <a href="mailto:irene.iodice@univ-paris1.fr">
+		email </a>
+</span>
+				<li><a href="https://github.com/ioire"> <img src="{{ base }}/images/github_img.png" width="27" height="27" align="middle"> </a></li>
+				</ul>
+			</footer>
+		  </div>
+		</body>
+	</html>
