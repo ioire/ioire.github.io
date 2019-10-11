@@ -3,3 +3,22 @@ markdown: kramdown
 
 plugins:
   - jekyll-seo-tag
+
+title:	               'Irene Iodice'
+description:	       'This website is a platform to share my research and a repository for classes'
+author:                'Irene Iodice'
+
+url:                   'https://ioire.github.io'
+lang:                   en_UK
+
+#social:
+#  name: Awesome Author
+#  links:
+
+
+webmaster_verifications:
+  google: 1234
+  bing: 1234
+  alexa: 1234
+  yandex: 1234
+  baidu: 1234
