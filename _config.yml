@@ -5,7 +5,8 @@ plugins:
   - jekyll-seo-tag
 
 title:	               'Irene Iodice'
-description:	       'This website is a platform to share my research and a repository for classes'
+description:	       'I am a PhD student in International Economics. Here you
+can discover about my research and find material for students in Applied Econometrics'
 author:                'Irene Iodice'
 
 url:                   'https://ioire.github.io'
