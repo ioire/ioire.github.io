@@ -3,8 +3,7 @@ layout: default
 title: Irene Iodice
 ---
 <div class="blurb">
-	<img src="{{ base }}/images/escher-metamorphose.png" width="800" height="100" align="middle">
-	{% seo %}
+	<img src="images/escher-metamorphose.png" width="800" height="100" align="middle"> 
 	<h1>Irene Iodice</h1>
 	<p> I am a PhD student under cotutelle between <em>Sant'Anna School of Advanced Studies</em> and <em>Université Paris 1 Panthéon-Sorbonne</em>. 
 		My work has been advised by <a href="http://www.lionel-fontagne.eu/">Lionel Fontagné</a>  and 
@@ -18,7 +17,6 @@ title: Irene Iodice
 		not transparent domestic technical regulations on the
 		exporting activity and finally on (iii) the link between firms'
 		performance in international markets and product portfolio strategies. </p> 
-		
 		
 	<p> You can contact me at firstname.lastname@malix.univ-paris1.fr <p> 
 <h2>Education</h2>

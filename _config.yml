@@ -1,2 +1,5 @@
 name: Irene Iodice
 markdown: kramdown
+
+plugins:
+  - jekyll-seo-tag
