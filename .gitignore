@@ -1,3 +1,5 @@
+*.gem
+*.lock
 .jekyll-cache/
 .sass-cache/
 .jekyll-metadata
