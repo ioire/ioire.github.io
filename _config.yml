@@ -5,8 +5,8 @@ plugins:
   - jekyll-seo-tag
 
 title:	               'Irene Iodice'
-description:	       'I am a PostDoc student in International Economics. Here you
-can discover about my research and find material for students in Applied Econometrics'
+description:	       'I am an Assistant Professor in International Economics. Here you
+can discover about my research and find material for students in International Economics and Applied Econometrics'
 author:                'Irene Iodice'
 
 url:                   'https://ioire.github.io'
