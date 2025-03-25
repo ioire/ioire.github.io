@@ -3,6 +3,7 @@ markdown: kramdown
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-last-modified-at
 
 title:	               'Irene Iodice'
 description:	       'I am an Assistant Professor in International Economics. Here you
@@ -23,3 +24,4 @@ webmaster_verifications:
   alexa: 1234
   yandex: 1234
   baidu: 1234
+
