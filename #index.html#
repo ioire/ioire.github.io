@@ -17,8 +17,8 @@ title: Irene Iodice
 <div class="blurb">    
 	<img src="{{ base }}/images/escher-metamorphose.png" width="800" height="100" align="middle">
 	<h1>Irene Iodice</h1>
-	
-	<img src="{{ base }}/images/bio.jpeg" align="left"  width="33%" height="36%" style="margin: 0px 30px 10px 0px;"/> <p>
+
+		<img src="{{ base }}/images/bio.jpeg" align="left"  width="33%" height="36%" style="margin: 0px 30px 10px 0px;"/> <p>
 
 	<p>I am an applied economist specialising in international trade and political economy. I am Assistant Professor of Economics at Bielefeld University and a CESifo Research Network Affiliate. I hold a PhD in Economics (joint) from the Sant’Anna School of Advanced Studies and Université Paris 1 Panthéon–Sorbonne. Before joining Bielefeld, I was a postdoctoral researcher with Maria Bas (ANR MoQuAT) and a consultant to the World Bank.</p>
 
