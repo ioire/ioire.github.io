@@ -74,3 +74,58 @@ ul.posts li {
   align-items: center;
   min-height: 100vh;
 }
+
+/* Titles: bold */
+.publications .pub-title {
+  font-weight: 700;
+}
+
+/* Journals: semibold + italic */
+.publications .journal {
+  font-weight: 500;
+  font-style: italic;
+}
+
+/* Dark grey clickable titles */
+.publications .pub-title a {
+  color: #333;
+  text-decoration: none;
+}
+
+.publications .pub-title a:visited {
+  color: #333;
+}
+
+.publications .pub-title a:hover {
+  color: #111;
+  text-decoration: underline;
+}
+
+/* Titles: bold */
+.publications .pub-title {
+  font-weight: 700;
+}
+
+/* Journals: semibold + italic */
+.publications .journal {
+  font-weight: 550;
+  font-style: italic;
+}
+
+/* Dark grey clickable titles */
+.publications .pub-title a {
+  color: #333;
+  text-decoration: none;
+}
+
+.publications .pub-title a:visited {
+  color: #333;
+}
+
+.publications .pub-title a:hover {
+  color: #111;
+  text-decoration: underline;
+}
+.publications .pub-title {
+  text-align: left;
+}
