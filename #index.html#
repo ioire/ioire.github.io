@@ -1,0 +1,46 @@
+---
+layout: default
+title: Irene Iodice
+---
+
+
+<div class="blurb">    
+	<img src="{{ base }}/images/escher-metamorphose.png" width="800" height="100" align="middle">
+
+  <h1 style="margin-top:1.1rem; margin-bottom:1.2rem;">Irene Iodice</h1>
+
+  <img src="{{ base }}/images/bio.jpeg"
+       alt="Photograph of Irene Iodice"
+       style="float:left; width:33%; margin:0 30px 10px 0;">
+
+  <p style="text-align:left;">
+    I am an Assistant Professor of Economics at
+    <strong>City St George's, University of London</strong>
+    and a CESifo Research Network Affiliate. My research lies at the
+    intersection of international trade and industrial organisation,
+    with a focus on how trade policy, regulations, and technical standards
+    shape firms' sourcing decisions, production networks, and responses
+    to globalisation.
+  </p>
+
+  <div style="clear:both; margin-top:0.75rem;"></div>
+
+  <p style="text-align:left;">
+    My current work studies trade agreements and rules of origin,
+    non-tariff measures and technical standards, and how international
+    policy coordination shapes global production and trade.
+  </p>
+
+  <h2 style="margin-top:1.4rem; margin-bottom:0.8rem;">Research Interests</h2>
+  <ul style="margin-top:0; line-height:1.45;">
+    <li>Trade agreements, rules of origin, and global value chains</li>
+    <li>Technical standards, non-tariff measures, and production networks</li>
+    <li>International policy coordination and trade liberalisation</li>
+    <li>Firm adjustment to trade and competitiveness shocks</li>
+  </ul>
+
+  <p style="margin-top:1.4rem; text-align:left;">
+    You can contact me at
+    <a href="mailto:irene.iodice@city.ac.uk">irene.iodice@city.ac.uk</a>.
+  </p>
+</div><!-- /.blurb -->
